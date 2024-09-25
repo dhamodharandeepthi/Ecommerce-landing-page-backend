@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Smartphone",
+        "description": "A high-quality smartphone with a stunning display.",
+        "price": 699,
+        "category": "electronics",
+        "image": "https://manikmobile.com/wp-content/uploads/2024/06/SamsungA25-Smartphone-494351794-i-1-1200Wx1200H.jpg",
+        "quantity": 10
+    },
+    {
+        "title": "Laptop",
+        "description": "Powerful laptop for professionals.",
+        "price": 1299,
+        "category": "electronics",
+        "image": "https://img.overclockers.co.uk/images/LAP-MSI-01785/28c88005ad978b3b2455d83b2307c395.jpg",
+        "quantity": 5
+    },
+    {
+        "title": "T-shirt",
+        "description": "Comfortable cotton T-shirt.",
+        "price": 19,
+        "category": "clothing",
+        "image": "https://cephalofair.com/cdn/shop/products/mockup-6f9e0442_2048x.png?v=1606307591",
+        "quantity": 50
+    },
+    {
+        "title": "Blender",
+        "description": "High-speed blender for making smoothies and soups.",
+        "price": 49,
+        "category": "home appliances",
+        "image": "https://mybluebees.com/wp-content/uploads/2024/08/619KAHlhEFL._SX679_-1000x1000-1.webp",
+        "quantity": 20
+    },
+    {
+        "title": "Vacuum Cleaner",
+        "description": "Powerful vacuum cleaner with HEPA filter.",
+        "price": 199,
+        "category": "home appliances",
+        "image": "https://oxygendigitalshop.com/media/cache/2500x0/catalog/product/v/a/vaccumcleaner-jazz2_1622666316.webp",
+        "quantity": 15
+    },
+    {
+        "title": "Microwave Oven",
+        "description": "Compact microwave oven with digital controls.",
+        "price": 89,
+        "category": "home appliances",
+        "image": "https://megadiscountstore.com.sg/cdn/shop/products/MICROWAVE.jpg?v=1671602462",
+        "quantity": 30
+    },
+    {
+        "title": "Sneakers",
+        "description": "Comfortable running shoes for daily wear.",
+        "price": 79,
+        "category": "clothing",
+        "image": "https://wallpapers.com/images/hd/travis-scott-jordan-1-1000-x-1000-wallpaper-576uag3rhdgh62a1.jpg",
+        "quantity": 40
+    },
+    {
+        "title": "Jeans",
+        "description": "Stylish denim jeans with a modern fit.",
+        "price": 49,
+        "category": "clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJjUYwH9CD9lUVOjo_cuKJZkaR-GEBHZqKQ&s",
+        "quantity": 60
+    },
+    {
+        "title": "Smartwatch",
+        "description": "Track your fitness and notifications on the go.",
+        "price": 199,
+        "category": "electronics",
+        "image": "https://www.pebblecart.com/cdn/shop/products/Vision4.png?v=1676542603&width=1000",
+        "quantity": 25
+    },
+    {
+        "title": "Gaming Console",
+        "description": "Next-gen gaming console for a seamless gaming experience.",
+        "price": 499,
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/718a11KNYSL._AC_UF1000,1000_QL80_.jpg",
+        "quantity": 12
+    },
+    {
+        "title": "Electric Kettle",
+        "description": "Fast boiling electric kettle with auto shut-off.",
+        "price": 29,
+        "category": "home appliances",
+        "image": "https://m.media-amazon.com/images/I/612bvvjfB3L.jpg",
+        "quantity": 50
+    },
+    {
+        "title": "Air Conditioner",
+        "description": "Energy-efficient air conditioner for cooling large rooms.",
+        "price": 399,
+        "category": "home appliances",
+        "image": "https://amstradworld.com/wp-content/uploads/2022/03/Product-Listing_2-3.png",
+        "quantity": 10
+    },
+    {
+        "title": "Jacket",
+        "description": "Warm winter jacket for extreme cold.",
+        "price": 129,
+        "category": "clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPAw4gqyXCtmPvEPwUN4VyXFGla5l9NL-gg&s",
+        "quantity": 20
+    },
+    {
+        "title": "Tablet",
+        "description": "Lightweight tablet with a high-resolution display.",
+        "price": 299,
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/61cg7g-pDiL.jpg",
+        "quantity": 30
+    },
+    {
+        "title": "Headphones",
+        "description": "Noise-cancelling headphones with superior sound quality.",
+        "price": 149,
+        "category": "electronics",
+        "image": "https://elitehubs.com/cdn/shop/files/71jtq039ssL._AC_SL1500_result.jpg?v=1722514002",
+        "quantity": 25
+    },
+    {
+        "title": "Refrigerator",
+        "description": "Spacious refrigerator with energy-efficient cooling.",
+        "price": 799,
+        "category": "home appliances",
+        "image": "https://m.media-amazon.com/images/I/81lp6hT+LoL._AC_UF1000,1000_QL80_.jpg",
+        "quantity": 8
+    },
+    {
+        "title": "Washing Machine",
+        "description": "Fully automatic washing machine with multiple wash programs.",
+        "price": 499,
+        "category": "home appliances",
+        "image": "https://amstradworld.com/wp-content/uploads/2022/08/AMWS65PW_front.jpg",
+        "quantity": 12
+    },
+    {
+        "title": "Shirt",
+        "description": "Elegant summer dress made from lightweight fabric.",
+        "price": 59,
+        "category": "clothing",
+        "image": "https://m.media-amazon.com/images/I/61fwODQGdGL._AC_UY1000_.jpg",
+        "quantity": 35
+    },
+    {
+        "title": "Monitor",
+        "description": "Ultra HD monitor for productivity and entertainment.",
+        "price": 299,
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/713JWn4CsNL._AC_UF1000,1000_QL80_.jpg",
+        "quantity": 20
+    }
+]
